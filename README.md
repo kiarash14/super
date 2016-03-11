@@ -28,7 +28,8 @@ sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgr
 
 # Support and development
 **Do not contact us** in private for support.
-Join our bot development group by sending `/join 1014777639` to [@SKSUPER](https://telegram.me/SKSUPER)
+Join our bot development group by sending `/join 1048962263` to [@SKSUPERS](https://telegram.me/SKSUPERS)
+or join by link [SKRILLEX SUPPORT](https://telegram.me/joinchat/CsjEzz6F5NecmPDUP1G39Q)
 
 # Developer 
 [Mustafa ip](https://telegram.me/HackeD_o)
