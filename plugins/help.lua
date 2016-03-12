@@ -2,37 +2,37 @@ do
 
 function run(msg, matches)
   return [[
- ⚪️/Open | Close file :- منع ملفات
-⚪️/Open | Close image :- منع صور
-⚪️/Open | Close audio :- منع صوت
-⚪️/Open | Close sticker :- منع ملصق
-⚪️/Open | Close link :- منع روابط
-⚪️/Open | Close chat :- قفل الدردشة
+ ⚪️/Open | Close file :- 
+⚪️/Open | Close image :- 
+⚪️/Open | Close audio :- 
+⚪️/Open | Close sticker :- 
+⚪️/Open | Close link :- 
+⚪️/Open | Close chat :- 
 ➖➖➖➖➖➖➖➖
-⚪️/Promote :- رفع ادمن
-⚪️/demote :- انزل ادمن
+⚪️/Promote :- 
+⚪️/demote :- 
 💭/spromote : up leader by <reply|id|username> 
 💭/sdemote : in promote by <reply|id|username>
-⚪️/modlist :- اظهار الادمنية
-⚪️/kickme :- للخروج من المجموعة
-️️⚪️/kick :- طرد عضو
-⚪️/ban :- حضر العضو من المجموعة
-⚪️/block (word) :- حضر كلمه
-⚪️/unblock (word) :- الغاء حضر كلمه
-⚪️/group settings :- اعدادات متقدمة
+⚪️/modlist :- 
+⚪️/kickme :- 
+️️⚪️/kick :- 
+⚪️/ban :- 
+⚪️/block (word) :-
+⚪️/unblock (word) :- 
+⚪️/group settings :- 
 ➖➖➖➖➖➖➖➖
-⚪️/setabout (txt) :- وضع وصف سوبر
-⚪️/setrules :- وضع قوانين
-⚪️/rules :- اظهار قوانين
-⚪️/about :- اظهار وصف السوبر
-⚪️/delete :- حذف رساله سوبر
-⚪️/getlink :- جلب رابط القروب خاص
-⚪️/relink :- تغير رابط المجموعة
-⚪️/setname (text) :- وضع اسم
-⚪️/setphoto :- وضع صورة
+⚪️/setabout (txt) :- 
+⚪️/setrules :- 
+⚪️/rules :- 
+⚪️/about :- 
+⚪️/delete :- 
+⚪️/getlink :-  
+⚪️/relink :- 
+⚪️/setname (text) :-  
+⚪️/setphoto :-
 ➖➖➖➖➖➖🆕
-⚪️/sillent :- منع العضو من التكلم
-⚪️/unsillent :- الغاء منع التكلم من عضو
+⚪️/sillent :-   
+⚪️/unsillent :- 
 ➖➖➖➖➖➖
 
 ]]
